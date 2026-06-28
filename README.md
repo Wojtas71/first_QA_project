@@ -31,8 +31,8 @@ I am actively developing this project. Below is the timeline of the testing proc
   - [x] Design Test Cases for adding items to the cart and sorting filters.
   - [x] Identify and report data/UI vulnerabilities (Reported `BUG_002`, `BUG_003` - raw programming code leaks).
 
-- [ ] **Phase 4: Module 3 - Shopping Cart**
-  - [ ] Verify cart consistency and item removal functionality.
+- [x] **Phase 4: Module 3 - Shopping Cart**
+  - [x] Verify cart consistency and item removal functionality.
 
 - [ ] **Phase 5: Module 4 - Checkout Process**
   - [ ] Test form validation and end-to-end purchase flow.
