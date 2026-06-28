@@ -43,7 +43,7 @@ I am actively developing this project. Below is the timeline of the testing proc
 
 ---
 
-## 🐛 Bug Reports Summary
+## Bug Reports Summary
 *All detailed bug reports (with Severity, Priority, and Steps to Reproduce) are available in the main documentation file.*
 
 | Bug ID | Title | Severity | Priority | Status |
