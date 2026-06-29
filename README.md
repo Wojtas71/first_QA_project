@@ -43,11 +43,11 @@ I am actively developing this project. Below is the timeline of the testing proc
   - [x] Test form validation and end-to-end purchase flow.
   - [x] Report critical bugs regarding missing data validation.
 
-- [ ] **Phase 5: Module 5 - Navigation & Footer (UI)**
-  - [ ] Test the functionality of the side navigation (hamburger menu) and verify all footer links (social media and system policies).
+- [x] **Phase 5: Module 5 - Navigation & Footer (UI)**
+  - [x] Test the functionality of the side navigation (hamburger menu) and verify all footer links (social media and system policies).
 
-- [ ] **Phase 6: Final Reporting**
-  - [ ] Prepare the final Test Summary Report.
+- [x] **Phase 6: Final Reporting**
+  - [x] Prepare the final Test Summary Report.
 
 ---
 
@@ -65,7 +65,7 @@ I am actively developing this project. Below is the timeline of the testing proc
 ---
 
 ## Conclusion
-*Test summary raport available.*
+*Test summary report available.*
 
 **Status:** Not ready for release (No-Go).
 
