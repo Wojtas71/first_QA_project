@@ -34,9 +34,9 @@ I am actively developing this project. Below is the timeline of the testing proc
 - [x] **Phase 4: Module 3 - Shopping Cart**
   - [x] Verify cart consistency and item removal functionality.
 
-- [ ] **Phase 5: Module 4 - Checkout Process**
-  - [ ] Test form validation and end-to-end purchase flow.
-  - [ ] Report critical bugs regarding missing data validation.
+- [x] **Phase 5: Module 4 - Checkout Process**
+  - [x] Test form validation and end-to-end purchase flow.
+  - [x] Report critical bugs regarding missing data validation.
 
 - [ ] **Phase 6: Final Reporting**
   - [ ] Prepare the final Test Summary Report.
@@ -51,6 +51,7 @@ I am actively developing this project. Below is the timeline of the testing proc
 | **BUG_001** | Login error message is truncated on the UI | Minor | Medium | Open |
 | **BUG_002** | Raw programming code in item description | Minor | Medium | Open |
 | **BUG_003** | Raw programming code in item title | Minor | Medium | Open |
+| **BUG_004** | Checkout form accepts spaces as valid input and allows proceeding | Major | High | Open |
 
 ---
 *Created by Wojciech - Aspiring QA Engineer*
