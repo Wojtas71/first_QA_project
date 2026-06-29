@@ -3,6 +3,11 @@
 ## Project Overview
 This repository contains my portfolio project focusing on manual testing of the **Swag Labs (SauceDemo)** e-commerce platform. The main goal of this project is to demonstrate my practical understanding of standard QA processes—such as test case design, execution, and bug reporting—while applying ISTQB fundamentals and QA best practices in a simulated environment.
 
+## Test Environment & Test Data
+* **Application:** Swag Labs (SauceDemo)
+* **Test Scope:** The test cases and bug reports in this repository are based exclusively on the `standard_user` profile, which acts as the baseline for standard application functionality.
+* **Environment:** Windows 11, Google Chrome (Version 149.0.7827.199)
+
 ## Tools & Technologies Used
 * **Manual Testing:** Functional, UI, Negative/Positive testing
 * **Documentation:** Google Sheets / Excel (Test Cases, Bug Reports, Checklist)
@@ -55,6 +60,16 @@ I am actively developing this project. Below is the timeline of the testing proc
 | **BUG_002** | Raw programming code in item description | Minor | Medium | Open |
 | **BUG_003** | Raw programming code in item title | Minor | Medium | Open |
 | **BUG_004** | Checkout form accepts spaces as valid input and allows proceeding | Major | High | Open |
+| **BUG_005** | Footer legal texts (Terms of Service, Privacy Policy) are static text instead of clickable links. | Major | High | Open |
+
+---
+
+## Conclusion
+*Test summary raport available.*
+
+**Status:** Not ready for release (No-Go).
+
+The main buying process works, but the application is not ready for production. BUG_004 allows users to make an order with an empty address (spaces only), which is a high business risk. Also, missing links for the Privacy Policy (BUG_005) is a legal issue. I recommend fixing these Major bugs before release.
 
 ---
 *Created by Wojciech - Aspiring QA Engineer*
